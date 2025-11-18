@@ -57,7 +57,7 @@ Export beautiful HTML reports with:
 ## 📦 Download
 
 👉 **[Download PrivacySweep Free Edition (Windows .exe)](https://github.com/JSan0320/PrivacySweep-Free/releases/latest/download/PrivacySweep-Free.exe)**  
-*(This link will update automatically once you publish your Release.)*
+
 
 No installation required — runs as a standalone executable.
 
@@ -89,7 +89,7 @@ The Pro Edition helps you **protect** it.
 - Advanced workflow tools  
 
 👉 **Upgrade to PrivacySweep Pro:**  
-
+   WEBSITE COMING SOON!
 
 ---
 
