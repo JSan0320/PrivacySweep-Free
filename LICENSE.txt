@@ -1,0 +1,91 @@
+📄 PrivacySweep Free Edition – End User License Agreement (EULA)
+
+(This version protects you legally and keeps your product commercial.)
+
+PRIVACYSWEEP FREE EDITION — LICENSE AGREEMENT
+Copyright © 2025 PrivacySweep. All rights reserved.
+
+This software is licensed, not sold.
+
+By downloading, installing, or using PrivacySweep Free Edition (“Software”), you agree to the following terms:
+
+1. License Grant
+
+You are granted a personal, non-exclusive, non-transferable, revocable license to:
+
+Download and run the Software
+
+Use it for personal or internal business purposes
+
+2. Restrictions
+
+You MAY NOT:
+
+Copy, modify, decompile, reverse engineer, or disassemble the Software
+
+Redistribute the Software publicly or privately
+
+Upload the Software to any other website, storefront, or distribution platform
+
+Sell, sublicense, or include the Software in any paid or free product
+
+Use the Software’s name, branding, or assets without permission
+
+3. Intellectual Property
+
+The Software, all components, branding, names, trademarks, and code are the exclusive property of PrivacySweep and are protected by copyright and applicable laws.
+
+No rights are granted except those expressly written here.
+
+4. No Warranty
+
+The Software is provided “AS IS” without warranty of any kind.
+You assume all risk associated with its use.
+
+5. Limitation of Liability
+
+In no event shall PrivacySweep be liable for any damages arising from use or inability to use the Software.
+
+6. Commercial Editions
+
+This license applies only to the Free Edition.
+PrivacySweep Pro and PrivacySweep Enterprise are separate commercial products with separate licenses.
+
+7. Termination
+
+This license terminates automatically if:
+
+You violate any term
+
+You attempt to reverse engineer or modify the Software
+
+You attempt redistribution or resale
+
+Upon termination, you must delete all copies.
+
+8. Governing Law
+
+This agreement is governed by U.S. law.
+
+9. Contact
+
+For support or licensing inquiries:
+privacysweep.app (coming soon)
+
+By using the Software, you agree to this EULA.
+
+👌 Why this EULA works perfectly for you
+
+✔ Protects your code & brand
+
+✔ Prevents copying or re-uploading
+
+✔ Lets you safely distribute a free version
+
+✔ Keeps Pro & Enterprise commercial
+
+✔ Works even if you only post a compiled .exe
+
+✔ Standard for indie dev tool makers
+
+This is exactly what small cybersecurity tools, indie utilities, and commercial freeware apps use.
