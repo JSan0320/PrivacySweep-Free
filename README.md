@@ -1,6 +1,7 @@
-# PrivacySweep-Free
-A powerful, easy-to-use privacy scanner for your computer — 100% free.  PrivacySweep Free helps you instantly find sensitive information hiding inside your files. In just a few clicks, it scans your documents and shows you exactly where your digital exposure risks are. 
-=============================================================================================================================================================================
+[![Download Free](https://img.shields.io/badge/Download-Free%20Edition-brightgreen?style=for-the-badge)](https://github.com/JSan0320/PrivacySweep-Free/releases/latest)
+[![Buy Pro](https://img.shields.io/badge/Upgrade-PrivacySweep%20Pro-blue?style=for-the-badge)](https:/https://sanfordia0.gumroad.com/l/gqxkq)
+
+
 # 🔒 PrivacySweep — Free Edition  
 **Find sensitive personal data hiding in your files. Fast. Secure. Offline.**
 
