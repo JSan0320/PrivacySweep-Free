@@ -1,4 +1,4 @@
-[![Download Free](https://img.shields.io/badge/Download-Free%20Edition-brightgreen?style=for-the-badge)](https://github.com/JSan0320/PrivacySweep-Free/releases/latest)
+
 [![Buy Pro](https://img.shields.io/badge/Upgrade-PrivacySweep%20Pro-blue?style=for-the-badge)](https:/https://sanfordia0.gumroad.com/l/gqxkq)
 
 
@@ -54,10 +54,7 @@ Export beautiful HTML reports with:
 - No data collection  
 
 ---
-
-## 📦 Download
-
-👉 **[Download PrivacySweep Free Edition (Windows .exe)](https://github.com/JSan0320/PrivacySweep-Free/releases/latest/download/PrivacySweep-Free.exe)**  
+ 
 
 
 No installation required — runs as a standalone executable.
