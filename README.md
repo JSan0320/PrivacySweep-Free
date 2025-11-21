@@ -1,6 +1,4 @@
 
-[![Buy Pro](https://img.shields.io/badge/Upgrade-PrivacySweep%20Pro-blue?style=for-the-badge)](https:/https://sanfordia0.gumroad.com/l/gqxkq)
-
 
 # 🔒 PrivacySweep — Free Edition  
 **Find sensitive personal data hiding in your files. Fast. Secure. Offline.**
